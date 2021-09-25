@@ -1,5 +1,5 @@
 main();
-//hi
+
 exit();
 
 function main() {
