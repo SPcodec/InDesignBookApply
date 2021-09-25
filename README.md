@@ -1,5 +1,6 @@
 # InDesignBookApply
 Javascript code used for applying actions to all Documents (.indd) within a Book (.indb).
+Used at work.
 
 ```javascript
 main();
