@@ -1,5 +1,7 @@
 # InDesignBookApply
-Javascript code used for applying actions to all Documents (.indd) within a Book (.indb).
+Javascript code to automate common tasks in all Documents (.indd) within a Book (.indb).  
+InDesign is a publishing and page layout designing software. Each material is saved in a single Document (.indd files) and they can be placed in Books to share styles, swatches, parent pages, and other items. Javascript can also be used to automate common tasks in all Documents, such as applying bleed, changing page orientation, adding pages, etc.
+
 Remove the comments of the code you wish to use.
 
 ```javascript
